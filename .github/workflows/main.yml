@@ -1,4 +1,4 @@
-name: Build Gradle
+name: Build Maven
 
 on:
   workflow_dispatch:
