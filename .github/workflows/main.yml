@@ -36,4 +36,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: tooltip
-          path: target/*.jar
+          path: target/tooltips-*.jar
