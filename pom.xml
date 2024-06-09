@@ -29,14 +29,6 @@
 					<target>${java.version}</target>
 				</configuration>
 			</plugin>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-jar-plugin</artifactId>
-				<version>3.3.0</version>
-				<configuration>
-					<outputDirectory>X:\Programming\Minecraft Test Servers\Tooltips\1.19.4 SPIGOT ITEMSADDER\plugins</outputDirectory>
-				</configuration>
-			</plugin>
 		</plugins>
 	</build>
 
